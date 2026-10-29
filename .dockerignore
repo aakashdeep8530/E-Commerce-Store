@@ -1,0 +1,7 @@
+node_modules
+frontend
+.env
+*.env
+.git
+thumb.png
+uploads
